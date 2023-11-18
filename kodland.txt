@@ -1,3 +1,4 @@
 print("merhaba dünya");
 print("merhaba mustafa");
-print("merhaba yunus");sss
+print("merhaba yunus");
+print("merhaba hikmet efe");

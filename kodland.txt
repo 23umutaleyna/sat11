@@ -1,3 +1,0 @@
-print("merhaba dünya");
-print("merhaba mustafa");
-print("merhaba yunus");sss
